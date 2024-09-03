@@ -1,6 +1,6 @@
-<h1 class="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1141F7&width=435&lines=Hello%2C+I'm+Aris+Edy+Handoko)](https://git.io/typing-svg)
-</h1>
+<h1 class="center"></h1>
 
 
 ## IM FROM INDONESIA ,  IM FULLSTACK WEB DEVELOPER (https://instagram.com/yrizzz._) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
