@@ -1,6 +1,12 @@
+<h1 class="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1141F7&width=435&lines=Hello%2C+I'm+Aris+Edy+Handoko)](https://git.io/typing-svg)
+</h1>
 
-<h2 align="left">👋 I'm from Indonesia , I'm Fullstack Developer</h2>
+
+## IM FROM INDONESIA ,  IM FULLSTACK WEB DEVELOPER (https://instagram.com/yrizzz._) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+[<img src="https://img.shields.io/badge/Website-aris.dev-blue">](https://www.arisarea.my.id)
+[![GitHub amiruldev20](https://img.shields.io/github/followers/amiruldev20?label=follow&style=social)](https://github.com/amiruldev20)
+[![Profile Views](https://komarev.com/ghpvc/?username=amiruldev20&label=Profile%20Views)](https://github.com/amiruldev20)
 
 ###
 
@@ -64,8 +70,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/yrizzz/yrizzz/output/snake.svg" alt="Snake animation" />
-
-###
