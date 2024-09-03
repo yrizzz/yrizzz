@@ -4,7 +4,7 @@
 
 
 ## I'm From Indonesia , I'm Fullstack Web Developer  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
-[<img src="https://img.shields.io/badge/Website-aris.dev-blue">](https://www.arisarea.my.id)
+[<img src="https://img.shields.io/badge/Website-arisarea.my.id-blue">](https://www.arisarea.my.id)
 [![GitHub yrizzz](https://img.shields.io/github/followers/yrizzz?label=follow&style=social)](https://github.com/yrizzz)
 [![Profile Views](https://komarev.com/ghpvc/?username=yrizzz&label=Profile%20Views)](https://github.com/yrizzz)
 
