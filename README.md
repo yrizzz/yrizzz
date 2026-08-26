@@ -1,73 +1,87 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1141F7&width=435&lines=Hello%2C+I'm+Aris+Edy+Handoko)](https://git.io/typing-svg)
-<h1 class="center"></h1>
-
-
-## I'm From Indonesia , I'm Fullstack Web Developer  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
-[<img src="https://img.shields.io/badge/Website-yrizzz.my.id-blue">](https://yrizzz.my.id)
-[![GitHub yrizzz](https://img.shields.io/github/followers/yrizzz?label=follow&style=social)](https://github.com/yrizzz)
-[![Profile Views](https://komarev.com/ghpvc/?username=yrizzz&label=Profile%20Views)](https://github.com/yrizzz)
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yrizzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=yrizzz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yrizzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:58A6FF&height=200&section=header&text=Aris%20Edy%20Handoko&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descSize=18&descAlignY=55" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Laravel+%E2%80%A2+PHP+%E2%80%A2+Go+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;Building+ERP+%26+Business+Applications;Backend+%E2%80%A2+API+%E2%80%A2+Automation+%E2%80%A2+System+Design;Turning+Ideas+Into+Reliable+Software+%E2%9A%A1)](https://git.io/typing-svg)
+
+<br>
+
+**Full Stack Web Developer from Indonesia 🇮🇩**
+
+Building scalable web applications, ERP systems, APIs, automation tools,  
+and business solutions with clean architecture and maintainable code.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-yrizzz.my.id-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yrizzz.my.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aris_Edy_Handoko-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aris-edy-handoko-357295277/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arisedyhandoko@gmail.com)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yrizzz&style=flat-square&color=0969DA&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/yrizzz?style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/yrizzz?tab=followers)
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV5a25mdjl3ZG8wbW54eGhnZWU4OTA3ZDIzc211bDk3Mm9pMDVwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2t2EemO5ClzBSr2hGc/giphy.webp"  />
+## 👨‍💻 About Me
 
-###
+```javascript
+const aris = {
+    name: "Aris Edy Handoko",
+    username: "yrizzz",
+    location: "Indonesia 🇮🇩",
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-</div>
+    role: "Full Stack Web Developer",
 
-###
+    code: [
+        "PHP",
+        "Go",
+        "JavaScript",
+        "TypeScript",
+        "Python"
+    ],
 
-<div align="left">
-  <a href="https://instagram.com/yrizzz._" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/523322756368957442" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:arisedyhandoko@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/aris-edy-handoko-357295277/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/im.yrizzz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://t.me/im_yrizzz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://wa.me/+6281296451923" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
+    technologies: {
+        backend: [
+            "Laravel",
+            "Go",
+            "Node.js"
+        ],
 
-###
+        frontend: [
+            "React",
+            "Next.js",
+            "Livewire",
+            "Bootstrap",
+            "Tailwind CSS"
+        ],
 
+        database: [
+            "MySQL",
+            "PostgreSQL",
+            "Redis"
+        ],
 
+        devOps: [
+            "Linux",
+            "Docker",
+            "Nginx",
+            "Cloudflare",
+            "Git"
+        ]
+    },
+
+    interests: [
+        "ERP Systems",
+        "Backend Engineering",
+        "REST APIs",
+        "System Architecture",
+        "Automation",
+        "AI Assisted Development"
+    ],
+
+    currentFocus: "Building scalable business applications 🚀"
+};
